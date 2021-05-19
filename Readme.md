@@ -1,30 +1,22 @@
----
-title: "Readme"
-author: "Balaji Rajan"
-date: "5/19/2021"
-output: html_document
----
+# Datasciences Capstone Project
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## This is the repository of the various files that was used to build the prediction algorithm
 
-## R Markdown
+The files are placed in this order
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+1. The program that creates the n-gram files
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+https://github.com/balajir2/Datasciences-Capstone-Project/blob/main/NLP.R
 
-```{r cars}
-summary(cars)
-```
+2. The program that runs the shiny application
 
-## Including Plots
+https://github.com/balajir2/Datasciences-Capstone-Project/blob/main/server.R
+https://github.com/balajir2/Datasciences-Capstone-Project/blob/main/ui.R
 
-You can also embed plots, for example:
+3. Developed and deployed Shiny application
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+https://balajir2.shinyapps.io/Capstone/
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+4. Shiny presentation
+
+
