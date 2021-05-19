@@ -17,6 +17,12 @@ https://github.com/balajir2/Datasciences-Capstone-Project/blob/main/ui.R
 
 https://balajir2.shinyapps.io/Capstone/
 
+4. The git is set at
+
+https://github.com/balajir2/Datasciences-Capstone-Project
+
+
 4. Shiny presentation
 
+https://rpubs.com/balajirajan/prediction
 
